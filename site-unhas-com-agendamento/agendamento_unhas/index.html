@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Agendamento de Unhas</title>
+</head>
+
+<body>
+    <h1>Agendamentos</h1>
+    <div id="formAgendamento">
+
+        <div>
+            <label for="nomeCliente">
+                <input type="text" id="nomeCliente" placeholder="digite seu nome" required>
+            </label>
+        </div>
+   
+        <div>
+            <label for="horaCliente">
+                <select id="horaCliente" required>
+                    <option id="option" value="8:00hs">8:00hs</option>
+                    <option id="option" value="9:00hs">9:00hs</option>
+                    <option id="option" value="10:00hs">10:00hs</option>
+                    <option id="option" value="11:00hs">11:00hs</option>
+                    <option id="option" value="12:00hs">12:00hs</option>
+                    <option id="option" value="13:00hs">13:00hs</option>
+                    <option id="option" value="14:00hs">14:00hs</option>
+                    <option id="option" value="15:00hs">15:00hs</option>
+                    <option id="option" value="16:00hs">16:00hs</option>
+                </select>
+            </label>
+        </div>
+
+        <div>
+            <label for="servicoSelecionado">
+                <select id="servicoSelecionado" required>
+                    <option id="option2" value="manicure tradicional">manicure tradicional</option>
+                    <option id="option2" value="alongamento de unhas">alongamento de unhas</option>
+                    <option id="option2" value="banho em gel">banho em gel</option>
+                    <option id="option2" value="esmaltação em gel">esmaltação em gel</option>
+                    <option id="option2" value="blindagem">blindagem</option>
+                    <option id="option2" value="pedicure">pedicure</option>
+                    <option id="option2" value="spa dos pés">spa dos pés</option>
+                </select>
+            </label>
+        </div>
+
+        <button onclick="addagendamentos()" type="submit" id="agendar">Agendar</button>
+    </div>
+
+
+    <div id="resultado">
+
+
+    </div>
+    <script src="index.js"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,204 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    height: 100vh;
+}
+
+h1 {
+    font-size: 50px;
+    align-self: center;
+    color: #ff69b4;
+    text-align: center;
+    text-shadow: 1px 1px 2px black;
+    font-family: "Eagle Lake", serif;
+}
+
+#formAgendamento {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column wrap;
+    width: 90%;
+    margin-left: 5%;
+    gap: 20px;
+    border: 3px solid #ff69b4;
+    background-color: #333;
+    border-radius: 10px;
+}
+
+#nomeCliente {
+    width: 70vw;
+    height: 30px;
+    box-shadow: 1px 3px 7px #ff69b4;
+    font-family: "Eagle Lake", serif;
+    font-size: 20px;
+    text-align: center;
+    text-decoration-color: #ff1493;
+    border-radius: 10px;
+}
+
+#nome:hover {
+    transition: 0.10s ease-in-out;
+    box-shadow: 2px 5px 10px #ff1493;
+}
+
+#horaCliente {
+    -webkit-appearance: none;
+    appearance: none;
+    border-radius: 0;
+    width: 70vw;
+    height: 30px;
+    box-shadow: 1px 3px 7px #ff69b4;
+    font-size: 20px;
+    text-align: center;
+    text-decoration-color: #ff1493;
+    border-radius: 10px;
+}
+
+#horaAgendamento:hover {
+    transition: 0.10s ease-in-out;
+    box-shadow: 5px 5px 15px #ff1493;
+}
+
+#servicoSelecionado {
+    width: 70vw;
+    height: 30px;
+    box-shadow: 1px 3px 7px #ff69b4;
+    font-size: 20px;
+    text-align: center;
+    text-decoration-color: #ff1493;
+    border-radius: 10px;
+}
+
+#servicoSelecionado:hover {
+    transition: 0.10s ease-in-out;
+    box-shadow: 2px 5px 10px #ff1493;
+}
+
+#agendar {
+    width: 70vw;
+    height: 40px;
+    line-height: 40px;
+    background-color: #ff69b4;
+    color: white;
+    font-size: 20px;
+    border: none;
+    box-shadow: 1px 3px 7px #ff69b4;
+    cursor: pointer;
+    font-family: "Eagle Lake", serif;
+    border-radius: 15px;
+}
+
+#agendar:hover {
+    transition: 0.10s ease-in-out;
+    box-shadow: 2px 5px 10px #ff1493;
+    background-color: #ff1493;
+}
+
+#agendar:active {
+    box-shadow: inset 1px 3px 7px #ff69b4;
+    transform: translateY(2px);
+}
+
+#option {
+    color: #ff1493;
+    font-family: "Eagle Lake", serif;
+    font-size: 20px;
+    background-color: #f0f0f0;
+
+}
+
+.btn-acompanhar{
+    width: 30vh;
+    height: 20px;
+    line-height: 20px;
+    background-color: #ff69b4;
+    color: white;
+    font-size: 20px;
+    border: none;
+    box-shadow: 1px 3px 7px #ff69b4;
+    cursor: pointer;
+    font-family: "Eagle Lake", serif;
+    border-radius: 15px;
+}
+
+#option2 {
+    color: #ff1493;
+    font-family: "Eagle Lake", serif;
+    font-size: 20px;
+    background-color: #f0f0f0;
+
+}
+
+#resultado {
+    margin-top: 20px;
+    display: flex;
+    justify-content: flex-start;
+    flex-flow: row wrap;
+    width: 100%;
+    gap: 2px;
+
+}
+
+#agendamentoExibido {
+    flex: 30%;
+    height: 100px;
+    text-align: center;
+    line-height: 20px;
+    font-family: "Eagle Lake", serif;
+    font-size: 20px;
+    margin-top: 5%;
+    border: 3px solid #ff1493;
+    width: 30%;
+    border-radius: 20px;
+    background-color: #333;
+    color: #ff1493;
+
+}
+
+
+.areaNome {
+    border: 1px solid #ff69b4;
+    width: 80%;
+    height: 60px;
+    background-color: #ff1493;
+    margin-bottom: 10px;
+}
+
+button,
+.delete {
+    background: black;
+    border: none;
+    width: 20%;
+    height: 60px;
+    text-align: center;
+    line-height: 40px;
+    cursor: pointer;
+    font-weight: bolder;
+    color: #ff1493;
+    font-size: 20px;
+    font-family: "Eagle Lake", serif;
+    margin-bottom: 10px;
+
+}
+
+button:hover,
+.delete:hover {
+    background-color: #333;
+    transition: 0.10s ease-in-out;
+}
+
+button:active,
+.delete:active {
+    box-shadow: inset 1px 3px 7px #ff69b4;
+    transform: translateY(2px);
+}

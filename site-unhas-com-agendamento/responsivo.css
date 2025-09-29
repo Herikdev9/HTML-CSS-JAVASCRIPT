@@ -1,0 +1,11 @@
+@media screen and (max-width:843px) {
+
+    .logo {
+        flex-direction: row;
+        justify-content: center;
+    }
+
+    .menu {
+        display: none;
+    }
+}
