@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=h1, initial-scale=1.0">
-    <title>PORTFÓLIO</title>
+    PORTFÓLIO
 </head>
 
 <body>
