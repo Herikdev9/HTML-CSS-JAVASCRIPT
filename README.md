@@ -11,6 +11,7 @@
     <div>
         <h1>AGENCIA FAKE</h1>
         <P>Um trabalho feito com HTML e CSS </P>
+        ![Texto alternativo do GIF](img/agencia-fake.gif)
     </div>
     <div>
         <h2>lista de tarefas</h2>
