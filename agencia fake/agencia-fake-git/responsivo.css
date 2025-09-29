@@ -1,0 +1,52 @@
+@media screen and (max-width:960px) {
+
+    .logo {
+        flex-direction: row;
+        justify-content: center;
+    }
+
+    .menu {
+        display: none;
+
+    }
+
+    .ptexto {
+        width: 450px;
+        overflow-wrap: break-word;
+    }
+
+    .header {
+
+        top: 50px;
+        display: flex;
+        justify-content: space-between;
+        flex-flow: row wrap;
+        /* border: 1px solid black; */
+        margin: 5%;
+    }
+
+    .headline .digital {
+        font-family: "Archivo Black", sans-serif;
+        font-weight: 900;
+        font-size: 50px;
+        text-align: start;
+        color: #21cfcf;
+    }
+
+    .melhor {
+        margin-top: 50px;
+        letter-spacing: 15px;
+        text-align: start;
+        font-size: 20px;
+        color: #696969;
+        text-shadow: 0px 0px 10px #21cfcf;
+    }
+
+    .contact-btn {
+        background-color: #21cfcf;
+        padding: 10px 20px;
+        text-decoration: none;
+        border-radius: 10px;
+
+    }
+}
