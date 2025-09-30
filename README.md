@@ -1,4 +1,15 @@
+<!DOCTYPE html>
+<html lang="pt-br">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=h1, initial-scale=1.0">
+    <title>PORTFÓLIO</title>
+</head>
+
+<body>
+    <div>
+        <div>
             <h1>AGENCIA FAKE</h1>
             <P>Um trabalho feito com HTML e CSS </P>
         </div>
