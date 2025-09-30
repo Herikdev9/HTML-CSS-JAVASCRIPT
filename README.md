@@ -11,7 +11,7 @@
         <h1>AGENCIA FAKE</h1>
         <P>Um trabalho feito com HTML e CSS </P>
 
-        <h2>lista de tarefas</h2>
+        <h1>lista de tarefas</h1>
         <p>uma lista de tarefas com HTML, CSS e JAVASCRIPT. Funcionalidades adicianar as tarefas com a opção de maracar
             a tarefa concluida e excluir depois.</p>
     
