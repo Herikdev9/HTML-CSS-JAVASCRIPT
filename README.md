@@ -4,12 +4,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=h1, initial-scale=1.0">
-    <title>PORTFÓLIO</title>
+    PORTFÓLIO
 </head>
+h1{
+color:red;
+}
 
 <body>
         <div>
-            <h1 style="color🔴">AGENCIA FAKE</h1>
+            <h1 >AGENCIA FAKE</h1>
             <P>Um trabalho feito com HTML e CSS </P>
         </div>
         <div>
