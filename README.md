@@ -8,7 +8,6 @@
 </head>
 
 <body>
-    <div>
         <div>
             <h1>AGENCIA FAKE</h1>
             <P>Um trabalho feito com HTML e CSS </P>
@@ -30,7 +29,6 @@
                 do studio com HTML, CSS E JAVASCRIPT</p>
         </div>
 
-    </div>
 </body>
 
 </html>
