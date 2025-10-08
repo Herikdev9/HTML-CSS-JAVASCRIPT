@@ -29,14 +29,16 @@
                 do studio com HTML, CSS E JAVASCRIPT</p>
         </div>
     
-          <div>
+       <div>
             <h1> 🔴 codigo de sistema bancario com deposito e saque em JAVA ✔️ </h1>
-            <p>uma um sistema de codigo em java aonde é solicitado ao usuario nome,sobre nome, cpf após as informações de entrada a opção de deposito se deposito == nulo saldo negativo retorna mensagem de deposito ou saida após deposito opção de saque, após o saque opção de sacar ou sair ou entrar novamente caso contrario erroT</p>
+            <p>uma um sistema de codigo em java aonde é solicitado ao usuario nome,sobre nome, cpf após as informações de entrada a opção de deposito se deposito == nulo saldo                 negativo retorna mensagem de deposito ou saida após deposito opção de saque, após o saque opção de sacar ou sair ou entrar novamente caso contrario erroT
+            </p>
         </div>
 
-          <div>
+        <div>
             <h1> 🔴 codigo de um restaurante com logica de satisfação por gorjeta com e outro sem a logica Fuzzy em Python  ✔️ </h1>
-            <p> um restaurante com a opção de escolher o prato, após a escolha vem o pagamento, após o pagamento a opção se deseja dar uma gorjeta, caso a gorjeta seja acima de 15% cliente muito satisfeito, caso seja 10% cliente satisfeito, caso 5% ou menos cliente está insatisfeito um codigo sem usar a logica nebulosa ou Fuzzy e simples e outro usando-a </p>
+            <p> um restaurante com a opção de escolher o prato, após a escolha vem o pagamento, após o pagamento a opção se deseja dar uma gorjeta, caso a gorjeta seja acima de                 15% cliente muito satisfeito, caso seja 10% cliente satisfeito, caso 5% ou menos cliente está insatisfeito um codigo sem usar a logica nebulosa ou Fuzzy e                       simples e outro usando-a 
+            </p>
         </div>
 
         
