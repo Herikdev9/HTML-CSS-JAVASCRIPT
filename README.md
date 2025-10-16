@@ -38,6 +38,12 @@
             <p> um restaurante com a opção de escolher o prato, após a escolha vem o pagamento, após o pagamento a opção se deseja dar uma gorjeta, caso a gorjeta seja acima de                 15% cliente muito satisfeito, caso seja 10% cliente satisfeito, caso 5% ou menos cliente está insatisfeito um codigo sem usar a logica nebulosa ou Fuzzy e                       simples e outro usando-a 
             </p>
         </div>
+        <div>
+            <h1> 🔴 codigo de um sistema de controle de estoque feito com HTML, CSS E JAVASCRIPT ✔️ </h1>
+            <p>
+                usando o html como index, o css como style e java script para exibir a tabela de produtos, com as opções de exbir informações pelo alert, editar transformando o cadastrar em salvar também podendo excluir sem mudar o id atual. 
+            </p>
+        </div>
 
         
 
